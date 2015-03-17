@@ -61,3 +61,18 @@ unreachable, you probably want to create a new
 branch from it. This way, if you decide to keep
 that commit, you can merge the branch into the
 master.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+When two branches have merged, all of the commits
+from the merging branch moves into the master
+branch at the point diversion. Then you can delete
+the merging branch without losing the commits and
+all of the changes from that branch are applied to
+the main project.
+We represent it in the diagram so that we can
+properly visualize what will happen and
+you can respond accordingly. This way, you know
+where everything will turn up and there is little
+to no guess work involved.
