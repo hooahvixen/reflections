@@ -50,3 +50,14 @@ the two, when I'm ready to compare. Or I could
 show a potential client two or more versions so
 they have the decision on the route they want to
 go. There's so much more room for activities!
+
+How do the diagrams help you visualize the branch
+structure?
+
+The diagram is useful so that you can see how your
+branches are set up and whether or not a commit is
+unreachable. I'm thinking, if a commit is
+unreachable, you probably want to create a new
+branch from it. This way, if you decide to keep
+that commit, you can merge the branch into the
+master.
