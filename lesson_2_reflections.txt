@@ -1,0 +1,12 @@
+What happens when you initialize a
+repository? Why do you need to do it?
+
+Git places a .git file for commit
+storage in the directory. It turns
+the directory into a repository
+in which you can run git commands.
+This way, you can utilize the cool
+features git offers, such as commits,
+git log, git clone, etc. It turns the
+directory into something much more
+effective when editing code.
