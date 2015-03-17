@@ -21,3 +21,16 @@ to git before you commit them. It's
 inside the working directory, which
 should have every file in the repository
 whether you choose to commit them or not.
+
+How can you use the staging area to make
+sure you have one commit per logical change?
+
+If you use git status, you'll be able to see 
+if the file has been modified. You could also
+use git diff --staged to see what has been
+changed to the file inside the staging area.
+If you don't want to keep your changes, you
+can always (double check!) use fit checkout
+master in order to revert those changes. The
+staging area helps to "isolate" the files that
+will be changed. This keeps order (AWE-some!).
