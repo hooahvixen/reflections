@@ -10,3 +10,14 @@ features git offers, such as commits,
 git log, git clone, etc. It turns the
 directory into something much more
 effective when editing code.
+
+How is the staging area different from
+the working directory and the repository?
+What value do you think it offers?
+
+I think the staging area is where you
+put the files that you want to link
+to git before you commit them. It's
+inside the working directory, which
+should have every file in the repository
+whether you choose to commit them or not.
