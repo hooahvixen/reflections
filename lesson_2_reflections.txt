@@ -76,3 +76,20 @@ properly visualize what will happen and
 you can respond accordingly. This way, you know
 where everything will turn up and there is little
 to no guess work involved.
+
+What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+
+When Git merges automatically, it takes all of the
+code that was modified and doesn't have a conflict
+and places it where it goes. It's pretty neat and
+saves you on hassle. The con to this feature is if
+person a does something and person b does the same
+but what they both did was done differently and in
+a different place. you would have to watch out for
+redundancy. When you merge manually, you have the 
+chance to make sure that there is zero redundancy
+and you can see what you're doing instead of trusting
+a dumb computer. The con to this option? This would
+take a very long time when you have more than 30
+lines of code and it can be hard on the eyes.
