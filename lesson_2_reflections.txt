@@ -25,7 +25,7 @@ whether you choose to commit them or not.
 How can you use the staging area to make
 sure you have one commit per logical change?
 
-If you use git status, you'll be able to see 
+If you use git status, you'll be able to see
 if the file has been modified. You could also
 use git diff --staged to see what has been
 changed to the file inside the staging area.
@@ -34,3 +34,19 @@ can always (double check!) use fit checkout
 master in order to revert those changes. The
 staging area helps to "isolate" the files that
 will be changed. This keeps order (AWE-some!).
+
+What are some situations when branches would be
+helpful in keeping your history organized? How
+would branches help?
+
+branches would help if I'm doing something
+to my project that I'm not sure I want to
+keep, if I want to create a different version,
+etc. It would be helpful in keeping me organize.
+If I choose create a different layout on
+html/css that I'm not sure about, I could save
+it in a different branch and easily switch between
+the two, when I'm ready to compare. Or I could
+show a potential client two or more versions so
+they have the decision on the route they want to
+go. There's so much more room for activities!
