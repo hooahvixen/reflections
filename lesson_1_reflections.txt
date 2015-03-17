@@ -1,0 +1,94 @@
+How did viewing a diff between two
+versions of a file help you see the
+bug that was introduced?
+
+Using FC to view the differences
+between files was helpful because,
+it was able to only show me the
+lines which were change between
+the original file and the modified
+file. It's much easier than trying
+to scan through 2 very lengthy
+pages of code. Code IS a second
+language.
+
+How could having easy access to the
+entire history of a file make you a
+more efficient programmer in the
+long term?
+
+By being able to have access to my
+file history, I would be able to
+pin-point the last times I've made.
+I think it is incredibly useful,
+because I have just been going back
+to the drawing board. It is super
+frustrating to try and find mistakes
+when you don't know where you went
+wrong.
+
+What do you think are the pros and
+cons of manually choosing when to
+create a commit, like you do in Git,
+vs having versions automatically saved,
+like Google docs does?
+
+I think the only con I could see for
+manually choosing is that I would
+probably forget to save my documents after
+I've made a change. The Pros of using
+commits would be that I could be precise
+when I use 'diff' to search for my mistakes.
+You can't really do that when you only have
+the auto-save feature. You would have
+to search to find the mistakes which is
+not efficient at all. Also, you can
+add a comment to describe what kind
+of change you're doing with the commit.
+
+Why do you think some version control systems,
+like Git, allow saving multiple files in one
+commit, while others, like Google Docs, treat
+each file separately?
+
+I think the version control systems (like Git)
+are specifically tailored to how a coder
+works, whereas others (like Google Docs)
+were created to fit the work of a student
+writing an essay, someone writing a book,
+or anyone who is looking to use programs
+like Word or excel. Google Docs is very
+good for things that normal people do.
+
+How can you use the commands git log and
+git diff to view the history of files?
+
+If you're working on big project, you
+could use git log to show all of your
+commits in the projects. Once you find
+commit that has the mistake or typo,
+you can use git diff to compare the
+new commit with the previous one. Of
+course, you have to be in the repository
+before you use those commands.
+
+How might using version control make you more
+confident to make changes that could break
+something?
+
+I would be much more comfortable writing
+code. I would feel like I could easily
+figure out my mistakes using this. Of
+course, getting it right the first time
+is great, but using version control makes
+it virtually impossible to not get it
+right every time.
+
+Now that you have your workspace set up,
+what do you want to try using Git for?
+
+I was learning git so I can use it to
+move on to my next class on Udacity (which
+I am going to do). Now, I know I have a
+useful tool added to my belt of knowledge
+that I can use for projects down the road.
