@@ -34,3 +34,12 @@ the copy you cloned. And branches diverge from the
 master branch (or whatever) so that you can do
 things in the repository that you're not sure you
 want to add to the main branch.
+
+What is the benefit of having a copy of the last
+known state of the remote stored locally?
+
+This way, when someone updates it on GitHub, it
+won't give you a whole bunch of conflicts. You
+won't have to merge anything until you're ready
+to do it and you have control over how it happens.
+You've got the power!
