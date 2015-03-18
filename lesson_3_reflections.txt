@@ -43,3 +43,17 @@ won't give you a whole bunch of conflicts. You
 won't have to merge anything until you're ready
 to do it and you have control over how it happens.
 You've got the power!
+
+How would you collaborate without using Git or
+GitHub? What would be easier, and what would be
+harder?
+
+I guess i would send .zip files over e-mail in
+order to show the work I've done and vice versa.
+It would be hard, because I would have to search
+through the documents manually (I guess I could just
+use FC to determine the diffs) and I wouldn't have
+commits to show where there could be a bug. It would
+take a lot more time and on top of that, the e-mail
+isn't dedicated, so I would have to search through
+emails as well. I think I'll stick with Git.
