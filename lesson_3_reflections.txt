@@ -57,3 +57,24 @@ commits to show where there could be a bug. It would
 take a lot more time and on top of that, the e-mail
 isn't dedicated, so I would have to search through
 emails as well. I think I'll stick with Git.
+
+When would you want to make changes in a separate
+branch rather than directly in master? What benefits
+does each approach have?
+
+Working directly in the master branch is definitely
+easier in terms of making pull requests and merging.
+Working in a seperate branch creates a few more steps,
+but in the grand scheme, when you're working with a
+team on some large project, this method becomes
+necessary. If the master represents the finished
+project, you don't want to riddle it with bug from
+different brains, when you could just work alone and
+fix the bugs, then come together and polish it up before
+you bring your work into the main branch. You, also,
+have the opportunity to name the segway branch something
+that relates to the idea of what you're specifically
+working on. I bet it is very crucial to keep everything
+organized. Especially, when everyone comes from different
+backgrounds and do things differently. Freedom to do these
+things is key.
