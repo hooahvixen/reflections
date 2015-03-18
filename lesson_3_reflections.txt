@@ -1,3 +1,21 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository
+rather than keeping all your work local?
 
-I would want to do this if I'm not on my main computer or if someone else is working on a project with me. 
+I would want to do this if I'm not on my main
+computer or if someone else is working on a
+project with me.
+
+Why might you want to always pull changes
+manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+I'm not sure why I would pick pulling rather
+than pushing. I guess I would rather push,
+because I don't want my work to be public until
+I'm ready. I would also be able to work offline
+and have more flexibility. I could see why pull
+instead would probably be a better option.
+There's less of a chance of forgetting about
+where your work is, but for now, pushing seems
+best for me. I only use one computer at the
+moment.
